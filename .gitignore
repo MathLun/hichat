@@ -1,0 +1,15 @@
+node_modules
+
+# npm
+package-*.json
+
+# yarn
+yarn.lock
+
+# env
+.env
+
+# directory
+
+# files
+src/routes.ts
