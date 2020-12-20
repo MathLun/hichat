@@ -10,6 +10,6 @@ yarn.lock
 .env
 
 # directory
+dist
 
 # files
-src/routes.ts
